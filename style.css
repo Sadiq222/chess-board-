@@ -1,0 +1,33 @@
+.container{
+    height: 800px;
+    width: 800px;
+    box-sizing: border-box;
+    border: 1px ;
+    margin: 0 auto;
+    font-size: 75px;
+    text-align: center;
+    
+    
+}
+
+.row{
+height: 100px;
+width: 800px;
+display: flex;
+}
+
+.black{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(69, 150, 49);
+}
+.white{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(208, 240, 208);
+}
+
+img{
+    width: 100%;
+}
+
